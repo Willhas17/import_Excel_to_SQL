@@ -12,7 +12,7 @@ You can choose a excel file to import to SQL, and the code will create the table
 
 ## Installation
 
-PowerBIMonitoringStatus requires [Python](https://www.python.org/) v3 to run.
+Import_Excel_to_SQL requires [Python](https://www.python.org/) v3 to run.
 
 Install the dependencies.
 
