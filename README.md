@@ -7,7 +7,7 @@ A code for export data in excel for SQL
 
 ## How it works
 
-You can choose a excel file to import to SQL.
+You can choose a excel file to import to SQL, and the code will create the table and import all data from your excel.
 
 
 ## Installation
