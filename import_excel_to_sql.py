@@ -1,10 +1,7 @@
 import pandas as pd
-import numpy as np
-
 import pandas.io.sql
 import pyodbc
 
-import xlrd
 
 #mappin formats of excel possibilities (some problems with that, best way to go in the future)
 values_type = {
